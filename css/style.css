@@ -1,0 +1,19 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+}
+
+#footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0;
+  padding: 0;
+  margin: 0;
+}
